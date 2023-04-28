@@ -4,7 +4,8 @@ matplotlib
 seaborn
 nltk
 scikit-learn
+catboost
+xgboost
 setuptools
-logger
 datetime
 # -e .
